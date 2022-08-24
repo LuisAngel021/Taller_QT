@@ -9,4 +9,7 @@ En esta parte tendra que buscar el archivo CmakeList y abrirlo. Una vez hecho es
 configurará la ruta, para esto se borrara lo innecesario y solo dejará la ruta correspondiente.
 Solo dejando el Debug.
 
-Por ultimo, una vez ya hecho lo anterior, el programa debe de funcionar correctamente.
+Por ultimo, una vez ya hecho lo anterior, al abrir el proyecto en QT, se debe ir a opciones
+al apartado RUN y activar la casilla de ejecutar en la terminal.
+
+Si se ha realizado correctamente, el programa se ejecutara correctamente.
